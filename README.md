@@ -1,5 +1,5 @@
 # Project : News Article Crawling & News Chatbot
-
+test
 
 ## Short Description
 - Scrapy를 이용하여 네이버 뉴스 기사를 카테고리별로 크롤링하며, crontab을 통해 크롤링 자동화를 구축한다.
@@ -36,8 +36,7 @@ You will require Python 3 and the following libraries
     - pip install wordcloud
     
     - pip install konlpy
-    
-
+    ㅇ
 ### Dataset
 
 * 네이버 뉴스기사 2년치 크롤링 데이터
