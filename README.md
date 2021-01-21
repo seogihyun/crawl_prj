@@ -1,5 +1,5 @@
 # Project : News Article Crawling & News Chatbot
-test
+
 
 ## Short Description
 - Scrapy를 이용하여 네이버 뉴스 기사를 카테고리별로 크롤링하며, crontab을 통해 크롤링 자동화를 구축한다.
